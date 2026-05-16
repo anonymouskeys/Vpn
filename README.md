@@ -1,21 +1,47 @@
-# 🌐 @anonymouskeys VPN Aggregator
-### 🌍 Internet Freedom for Everyone
-> "The Internet must be open and free for everyone. No borders, no censorship."
+# 🌐 @anonymouskeys VPN-агрегатор
 
-| Language | Inspiration |
+| Language | Mission |
 | :--- | :--- |
-| 🇷🇺 **Русский** | Интернет должен быть открытым и свободным для каждого. Без границ и цензуры. Мы верим, что доступ к информации — это базовое право человека. |
-| 🇬🇧 **English** | The Internet must be open and free for everyone. No borders, no censorship. Our mission is to provide stable access to the global network. |
-| 🇮🇷 **Persian** | اینترنت باید برای همه باز и آزاد باشد. بدون مرز و سانسور. دسترسی به اطلاعات حق طبیعی هر انسان است. |
+| 🇷🇺 **Русский** | Интернет должен быть открытым и свободным для каждого. Доступ к информации — базовое право человека. |
+| 🇬🇧 **English** | The internet must be open and free for everyone. Access to information is a basic human right. |
+| 🇮🇷 **Persian** | اینترنت باید برای همه باز و آزاد باشد. دسترسی به اطلاعات حق طبیعی هر انسان است. |
 
 ---
-## 📢 Наш канал в Telegram / Join Us
-Присоединяйтесь к нашему сообществу для получения новых ключей, новостей и поддержки:
-👉 **[@anonymouskeys](https://t.me/anonymouskeys)**
+### 📢 Telegram Channel / Канал / کانال تلگرام
+https://t.me/anonymouskeys
 ---
-## 🚀 Ссылки для подписки / Subscription Links
-Скопируйте одну из ссылок ниже и вставьте её в свой VPN-клиент (v2rayNG, Nekobox, Streisand, V2Box и др.).
-### 1. Plain Text (Рекомендуется)
-Лучший вариант для современных приложений.
+### 🚀 Ссылки на подписку / Subscription Links / لینک‌های اشتراک
+*(Обновляется каждые 4 часа)*
+#### 1. Обычный текст / Plain Text / متن ساده
 ```text
-[https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt](https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt)
+https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt
+```
+#### 2. Base64 формат / Base64 format / فرمت Base64
+```text
+https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt
+```
+---
+### 🛠 Инструкция / Instructions / دستورالعمل ها
+#### 🇷🇺 Русский
+```text
+1. Скопируйте нужную ссылку из серого окна выше.
+2. В v2rayNG/Nekobox зайдите в «Настройки групп подписок».
+3. Нажмите «Добавить» (+), вставьте ссылку и сохраните.
+4. Нажмите «Обновить подписку».
+```
+#### 🇬🇧 English
+```text
+1. Copy the link from the grey box above.
+2. In your VPN app, go to "Subscription Group settings".
+3. Click "Add" (+), paste the URL and save.
+4. Click "Update subscription" in the main menu.
+```
+#### 🇮🇷 Persian
+```text
+۱. لینک را از کادر بالا کپی کنید.
+۲. در برنامه خود، به تنظیمات گروه اشتراک بروید.
+۳. افزودن (+) را بزنید، لینک را وارد و ذخیره کنید.
+۴. روی بروزرسانی اشتراک کلیک کنید.
+```
+---
+*Powered by @anonymouskeys Magic 🐉*
