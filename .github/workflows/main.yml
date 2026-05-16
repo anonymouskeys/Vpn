@@ -1,35 +1,25 @@
-name: Auto Update Subscription
-
+name: AutoUpdate
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 */4 * * *'
-
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           ref: code
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
-
-      - name: Install dependencies
+      - name: Install
         run: pip install requests
-
-      - name: Run parser
+      - name: Run
         run: python parser.py
-
-      - name: Push to main
+      - name: Push
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add subscription.txt subscription_base64.txt
-          git diff --cached --quiet || (git commit -m "Update subscription" && git push origin main)
+          git commit -m "Update links" || exit 0
+          git push origin main
