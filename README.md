@@ -8,7 +8,7 @@
 
 ---
 ### 📢 Telegram Channel / Канал / کانال تلگرام
-https://t.me/anonymouskeys
+[https://t.me/anonymouskeys](https://t.me/anonymouskeys)
 ---
 ### 🚀 Ссылки на подписку / Subscription Links / لینک‌های اشتراک
 *(Обновляется каждые 4 часа)*
