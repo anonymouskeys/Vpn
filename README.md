@@ -1,24 +1,24 @@
 # 🌐 @anonymouskeys VPN-агрегатор
 
-| Language | Mission |
+| Язык | Миссия |
 | :--- | :--- |
-| 🇷🇺 **Русский** | Интернет должен быть открытым и свободным для каждого. Доступ к информации — базовое право человека. |
-| 🇬🇧 **English** | The internet must be open and free for everyone. Access to information is a basic human right. |
-| 🇮🇷 **Persian** | اینترنت باید برای همه باز و آزاد باشد. دسترسی به اطلاعات حق طبیعی هر انسان است. |
+| 🇷🇺 Русский | Интернет должен быть открытым и свободным для каждого. Доступ к информации — базовое право человека. |
+| 🇬🇧 Английский | Интернет должен быть открытым и бесплатным для всех. Доступ к информации — это основное право человека. |
+| 🇮🇷 Персидский | اینترنت باید برای همه باز و آزاد باشد. دسترسی به اطلاعات حق طبیعی هر انسان است. |
 
 ---
-### 📢 Telegram Channel / Канал / کانال تلگرام
-[https://t.me/anonymouskeys](https://t.me/anonymouskeys)
+### 📢 Telegram-канал / Канал / کانال تلگرام
+https://t.me/anonymouskeys
 ---
 ### 🚀 Ссылки на подписку / Subscription Links / لینک‌های اشتراک
-*(Обновляется каждые 4 часа)*
+*(Обновление каждые 4 часа)*
 #### 1. Обычный текст / Plain Text / متن ساده
 ```text
-https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt
+https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt](https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt)
 ```
-#### 2. Base64 формат / Base64 format / فرمت Base64
+#### 2. Формат Base64 / Base64 format / فرمت Base64
 ```text
-https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt
+https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt](https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt)
 ```
 ---
 ### 🛠 Инструкция / Instructions / دستورالعمل ها
@@ -29,14 +29,14 @@ https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt
 3. Нажмите «Добавить» (+), вставьте ссылку и сохраните.
 4. Нажмите «Обновить подписку».
 ```
-#### 🇬🇧 English
+#### 🇬🇧 Английский
 ```text
 1. Copy the link from the grey box above.
 2. In your VPN app, go to "Subscription Group settings".
 3. Click "Add" (+), paste the URL and save.
 4. Click "Update subscription" in the main menu.
 ```
-#### 🇮🇷 Persian
+#### 🇮🇷 Персидский
 ```text
 ۱. لینک را از کادر بالا کپی کنید.
 ۲. در برنامه خود، به تنظیمات گروه اشتراک بروید.
@@ -44,4 +44,4 @@ https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt
 ۴. روی بروزرسانی اشتراک کلیک کنید.
 ```
 ---
-*Powered by @anonymouskeys Magic 🐉*
+*Работает на основе магии @anonymouskeys 🐉*
