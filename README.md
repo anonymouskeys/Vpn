@@ -14,11 +14,11 @@ https://t.me/anonymouskeys
 *(Обновление каждые 4 часа)*
 #### 1. Обычный текст / Plain Text / متن ساده
 ```text
-https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt](https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt)
+https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription.txt
 ```
 #### 2. Формат Base64 / Base64 format / فرمت Base64
 ```text
-https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt](https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt)
+https://raw.githubusercontent.com/anonymouskeys/Vpn/main/subscription_base64.txt
 ```
 ---
 ### 🛠 Инструкция / Instructions / دستورالعمل ها
